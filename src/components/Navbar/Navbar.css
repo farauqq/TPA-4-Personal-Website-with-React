@@ -1,0 +1,27 @@
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  margin: 0 10px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+ul li a {
+  padding: 8px 20px;
+  border-radius: 25px;
+}
+
+ul li a:hover {
+  background-color: #649e94;
+  color: #fff;
+}

@@ -1,0 +1,32 @@
+.skill h1 {
+  text-align: center;
+  text-shadow: 2px 2px gray;
+  font-size: 40px;
+  margin-top: 90px;
+}
+
+.project {
+  display: grid;
+  /* align-items: center; */
+  padding: 10px 50px;
+  margin-top: 45px;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.card-img {
+  margin: 2rem;
+  border-style: outset;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 10px 10px 1px #649e94;
+  margin-top: 3px;
+}
+
+.card-text a {
+  text-align: center;
+  color: #649e94;
+}

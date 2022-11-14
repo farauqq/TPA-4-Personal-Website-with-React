@@ -1,0 +1,29 @@
+.container-card .cardSkill {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  border: #fff;
+  position: relative;
+}
+.cardArtikel {
+  padding: 20px;
+  margin: 25px;
+  box-shadow: -10px 10px 1px #649e94;
+}
+
+.cardArtikel h5 {
+  text-align: center;
+}
+
+.cardArtikel a {
+  margin-top: 10px;
+  font-size: small;
+  color: blue;
+}
+
+.cardArtikel p {
+  font-size: small;
+  margin-top: 10px;
+  text-align: start;
+  color: black;
+}

@@ -1,0 +1,36 @@
+/* About */
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 50px;
+  margin-top: 100px;
+  /* margin-bottom: 100px; */
+  height: 460px;
+}
+.about-text h1 {
+  color: gray;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.about-text h1 span {
+  color: #649e94;
+}
+
+.about-text p {
+  color: black;
+}
+
+.sosmed {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px 80px;
+  margin-top: 2rem;
+}
+
+.sosmed img {
+  padding: 10px;
+}
